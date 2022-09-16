@@ -1,4 +1,4 @@
-![](/GitHub-ba.jpg)
+![](/sayeem.jpg)
 
 Hi, I'm Sayeem. I'm a JavaScript developer currently working on Decoupled architecture.
 
