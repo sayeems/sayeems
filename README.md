@@ -1,6 +1,6 @@
 ![](/GitHub-banner.jpg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Hi, I'm Sayeem. I'm a JavaScript developer currently working on Decoupled architecture.
 
 - 🔭 I’m currently working on Decoupled architecture 
 - 🌱 I’m currently learning Go 
